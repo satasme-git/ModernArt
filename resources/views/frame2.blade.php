@@ -39,7 +39,7 @@
            </div>
            <div class="row">
                 <div class="col" style="margin-bottom: 30px;"><center><a href="/print1"><button class="btn btn-warning text-white" style="border-radius: 50px; font-weight: bold; background:#CCA929; font-size: 28px;">Print + Frame</button></a></center></div>
-                <div class="col" style="margin-bottom: 30px;"><center><a href="#"><button class="btn btn-warning" style="border-radius: 50px; font-weight: bold; background:#7D8038; font-size: 28px; color:white;">Frame Only</button></a></center></div>
+                <div class="col" style="margin-bottom: 30px;"><center><a href="/frameonly1"><button class="btn btn-warning" style="border-radius: 50px; font-weight: bold; background:#7D8038; font-size: 28px; color:white;">Frame Only</button></a></center></div>
                 <div class="w-100"></div>
                 <div class="col" style="margin-bottom: 60px;"><center><img src="/images/print.jpg" alt="print" width="65%"></center></div>
                 <div class="col" style="margin-bottom: 60px;"><center><img src="/images/printless.jpg" alt="print" width="65%"></center></div>
