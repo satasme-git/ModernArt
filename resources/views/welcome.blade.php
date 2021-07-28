@@ -114,7 +114,7 @@
                                 </div>
                                 <div class="col">
                                   <img src="/images/frameicon2.jpg" alt="" width="10%" height="40%">
-                                  &nbsp;&nbsp;&nbsp;&nbsp; <a href=""> <b > CANVAS STRETCHING</b></a>
+                                  &nbsp;&nbsp;&nbsp;&nbsp; <a href="/canvasslide"> <b > CANVAS STRETCHING</b></a>
                                 </div>
                             </div>
                             <div class="row" style="height: 150px;">
@@ -123,7 +123,7 @@
                                   
                                 </div>
                                 <div class="col">
-                                  <a href=""> <b >BLOCK  MOUNT</b> </a>
+                                  <a href="/acrylicsandwich"> <b >ACRYLIC SANDWICH MOUNT</b> </a>
                                   
                                 </div>
                                 <div class="col">
@@ -131,7 +131,7 @@
                                               
                                 </div>
                                 <div class="col">
-                                  <a href=""> <b >BLOCK  MOUNT</b> </a>
+                                  <a href="/blockmount"> <b >BLOCK  MOUNT</b> </a>
                                   
                                 </div>
                                 <div class="col">
@@ -139,7 +139,7 @@
                                   
                                 </div>
                                 <div class="col">
-                                  <a href=""> <b >BLOCK  MOUNT</b> </a>
+                                  <a href="/acrylicpermanent"> <b >ACRYLIC PERMANENT MOUNT</b> </a>
                                   
                                 </div>
                             </div>
@@ -151,7 +151,7 @@
                     <div class="carousel-item">
                     <div style="width:100%; height:700px; "></div>
                     <div class="bg-text2"><br><br><br>
-                        <h2 class="text-dark" style="padding-top: 80px; ">Hot Selling Frames</h2>
+                        <h2 class="text-dark" style="padding-top: 80px; ">Hot Selling <br> Frames</h2>
                         <img  src="/images/frame1.jpg" width="25%" height="340" alt="First slide" style="margin-top: 100px; margin-right: 30px;">   
                         <img  src="/images/frame2.jpg" width="25%" height="340" alt="First slide" style="margin-top: 100px; margin-right: 30px;">
                         <img  src="/images/frame3.jpg" width="25%" height="340" alt="First slide" style="margin-top: 100px;"><br>
@@ -179,7 +179,7 @@
                                                <h3>Special Frames</h3>
                                                  
 
-                                                <div style="text-align: left;"><a href="#"><button class="inputbtn" ">About Us</button></a></div><br>
+                                                <div style="text-align: left;"><a href="#"><button class="inputbtn" ">View</button></a></div><br>
                                             </div>
                         
                         
@@ -212,7 +212,7 @@
                                                 <h3>Framing</h3>
                                                <br>
 
-                                                <div style="text-align: left;"><a href="#"><button class="inputbtn" ">About Us</button></a></div><br>
+                                                <div style="text-align: left;"><a href="#"><button class="inputbtn" ">View</button></a></div><br>
                                             </div>
                         
                         
@@ -243,7 +243,7 @@
                                             <div class="col">
                                                 <div style="margin-top:150px;">
                                                 <b style="color: black;">More Products</b><br>
-                                                <a href="#"><button class="inputbtn">View</button></a>
+                                                <a href="/product&service"><button class="inputbtn">View</button></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -263,24 +263,26 @@
                                                    <div class="con" id="thumbnail">
                                                     <b style="color: black;">Block Mount</b>
                                                     <img src="/images/slide4img2.jpg" class="img-thumbnail"  alt="" width="100%" height="200%">
-                                                    <button class="btn" style="width: 70px; margin-left:10px;">View</button>
+                                                   <a href="/blockmountslide"><button class="btn" style="width: 70px; margin-left:10px;">View</button></a> 
                                                   </div>
                                              </div>
                                              <div class="col">
                                                   <div class="con" id="thumbnail">
                                                     <b style="color: black;">Acrylic Sandwich</b>
                                                     <img src="/images/slide4img3.jpg" class="img-thumbnail"  alt="" width="100%" height="100%">
-                                                    <button class="btn" style="width: 70px; margin-left:10px;">View</button>
+                                                   <a href="/sandwichslide"><button class="btn" style="width: 70px; margin-left:10px;">View</button></a> 
                                                   </div>
                                              </div>
                                          </div><br>
                                          <div class="row">
+                                             <div class="col">
                                                  <div class="con" id="thumbnail">
                                                     
                                                     <img src="/images/slide4img4.jpg" class="img-thumbnail"  alt="" width="100%" height="100%">
-                                                    <button class="btn" style="width: 70px; margin-left:10px;">View</button>
+                                                   <a href="/canvasslide"><button class="btn" style="width: 70px; margin-left:10px;">View</button></a> 
                                                     <b style="color: black;">Canvas Stretching</b>
                                                 </div>
+                                            </div>
                                          </div>
                                      </div>
                                 </div>
@@ -341,7 +343,7 @@
                             Can help you bring <br>
                             A special touch to your wall. <br><br>
 
-                            <div style="text-align: left;"><a href="#"><button class="inputbtn" ">About Us</button></a></div><br>
+                            <div style="text-align: left;"><a href="/about"><button class="inputbtn" ">About Us</button></a></div><br>
                         </div>
                         
                         
@@ -372,7 +374,7 @@
                                     
                                     <div class="con">
                                       <img src="/images/hframe1.jpg" width="80%" height="400">
-                                      <button class="btn" >View</button>
+                                     <a href="/mirror"><button class="btn" >View</button></a> 
                                     </div>
                                    
                                       
@@ -387,7 +389,8 @@
 
                                     <div class="con">
                                       <img src="/images/hframe2.jpg" width="80%" height="400">
-                                      <button class="btn">View</button>
+                                      
+                                     <a href="/blockmount"> <button class="btn">View</button></a>
                                     </div>
                                     
                                     
@@ -430,7 +433,7 @@
 
                                     <div class="con">
                                       <img src="/images/bframe1.jpg" width="80%" height="400">
-                                      <button class="btn">View</button>
+                                     <a href="/aluminiumframe"><button class="btn">View</button></a> 
                                     </div>
                 
                                     
@@ -444,7 +447,7 @@
 
                                     <div class="con">
                                       <img src="/images/bframe2.jpg" width="80%" height="400">
-                                      <button class="btn">View</button>
+                                     <a href="/frameless"><button class="btn">View</button></a> 
                                     </div>
                                     
                                     
@@ -458,7 +461,7 @@
 
                                    <div class="con">
                                       <img src="/images/bframe3.jpg" width="80%" height="400">
-                                      <button class="btn">View</button>
+                                     <a href="/sports"> <button class="btn">View</button></a>
                                     </div>
                                     
                                    
@@ -594,8 +597,6 @@
         
     </body>
 </html>
-
-
 
 
 
