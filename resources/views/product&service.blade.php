@@ -43,14 +43,14 @@
                        <img src="/images/product2.jpg" width="70%" height="80%" alt="">
                        <div class="caption" >
                            <b style="margin-left: 30px; margin-right: 30px;">Acrylic Photo Mount</b><br>
-                           <a href=""><button class="btn1">View</button></a>
+                           <a href="/acrylicphoto"><button class="btn1">View</button></a>
                        </div>
                     </div>
                     <div class="col" id="thumbnail">
                        <img src="/images/product3.jpg" width="70%" height="80%" alt="">
                        <div class="caption">
                            <b style="margin-left: 30px; margin-right: 30px;">Shadow Box Frame</b><br>
-                           <a href=""><button class="btn1">View</button></a>
+                           <a href="/shadowbox"><button class="btn1">View</button></a>
                        </div>
                     </div>
                 </div>
@@ -60,28 +60,28 @@
                        <img src="/images/product4.jpg" width="70%" height="80%" alt="">
                        <div class="caption">
                            <b style="margin-left: 30px; margin-right: 30px;">Clip Frames</b><br>
-                           <a href=""><button class="btn1">View</button></a>
+                           <a href="/frameless"><button class="btn1">View</button></a>
                        </div>
                     </div>
                     <div class="col" id="thumbnail">
                        <img src="/images/product5.jpg" width="80%" height="80%" alt="">
                        <div class="caption">
                            <b style="margin-left: 20px; margin-right: 20px;">Jersey Framing</b><br>
-                           <a href=""><button class="btn1">View</button></a>
+                           <a href="/sports"><button class="btn1">View</button></a>
                        </div>
                     </div>
                     <div class="col" id="thumbnail">
                        <img src="/images/product6.jpg" width="90%" height="80%" alt="">
                        <div class="caption" >
                            <b style="margin-left: 20px; margin-right: 20px;">Aluminium Frames</b><br>
-                           <a href=""><button class="btn1">View</button></a>
+                           <a href="/aluminiumframe"><button class="btn1">View</button></a>
                        </div>
                     </div>
                     <div class="col" id="thumbnail">
                        <img src="/images/product7.jpg" width="70%" height="80%" alt="">
                        <div class="caption">
                            <b style="margin-left: 30px; margin-right: 30px;">Block Mount</b><br>
-                           <a href=""><button class="btn1">View</button></a>
+                           <a href="/blockmount"><button class="btn1">View</button></a>
                        </div>
                     </div>
                 </div>
@@ -95,22 +95,22 @@
                     <div class="col" id="thumbnail">
                       <img src="/images/product8.jpg" width="80%" height="80%" alt="">
                       <div class="caption">
-                           <b style="margin-left: 30px; margin-right: 30px;">Block Mount</b><br>
-                           <a href=""><button class="btn1">View</button></a>
+                           <b style="margin-left: 30px; margin-right: 30px;">Single Mats</b><br>
+                           <a href="/singlemats"><button class="btn1">View</button></a>
                        </div>
                     </div>
                     <div class="col" id="thumbnail">
                       <img src="/images/product9.jpg" width="80%" height="80%" alt="">
                       <div class="caption">
-                           <b style="margin-left: 30px; margin-right: 30px;">Block Mount</b><br>
-                           <a href=""><button class="btn1">View</button></a>
+                           <b style="margin-left: 30px; margin-right: 30px;">Multi Mats</b><br>
+                           <a href="/multimats"><button class="btn1">View</button></a>
                        </div>
                     </div>
                     <div class="col" id="thumbnail">
                       <img src="/images/product10.jpg" width="80%" height="80%" alt="">
                       <div class="caption">
-                           <b style="margin-left: 30px; margin-right: 30px;">Block Mount</b><br>
-                           <a href=""><button class="btn1">View</button></a>
+                           <b style="margin-left: 30px; margin-right: 30px;">Certificate Mats</b><br>
+                           <a href="/certmats"><button class="btn1">View</button></a>
                        </div>
                     </div>
                 </div>
@@ -120,15 +120,15 @@
                     <div class="col" style="margin-left:100px;" id="thumbnail">
                        <img src="/images/product11.jpg" width="40%" height="80%"  alt="" >
                        <div class="caption" >
-                           <b style="margin-left: 30px; margin-right: 30px;">Block Mount</b><br>
-                           <a href=""><button class="btn1">View</button></a>
+                           <b style="margin-left: 30px; margin-right: 30px;">Signature Mats</b><br>
+                           <a href="/signaturemats"><button class="btn1">View</button></a>
                        </div>
                     </div>
                     <div class="col" id="thumbnail">
                       <img src="/images/product12.jpg" width="50%" height="80%" alt="">
                       <div class="caption">
-                           <b style="margin-left: 30px; margin-right: 30px;">Block Mount</b><br>
-                           <a href=""><button class="btn1">View</button></a>
+                           <b style="margin-left: 30px; margin-right: 30px;">Name Mats</b><br>
+                           <a href="/namemats"><button class="btn1">View</button></a>
                        </div>
                     </div>
                 </div>
