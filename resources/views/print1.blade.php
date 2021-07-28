@@ -43,8 +43,9 @@
         </div>
     </div>
     <div style="margin-left: 50px; margin-right:50px;">
-       <img src="/images/printbg1.jpg" width="100%" height="620vh;" alt="">
-            <div class="bg-text2">
+       <img src="/images/printbg1.jpg" width="100%" height="650px;" alt="">
+            <div class="bg-text2" style="margin-top: 100px;">
+             <form action="/print2">
                 <center>
                 <div class="circle">
                     <div class="file-upload">
@@ -64,7 +65,67 @@
                         </div>
                      </div>
                 </div> 
+                <div class="container" style="margin-top: 50px; color: black;">
+                    <div class="row">
+                        <h4 style="color: black;">Select a Product</h4>
+                    </div>
+                    <br>
+                    <div class="row">
+                       
+                        <div class="col" style="text-align: right;">
+                           
+                           <img src="/images/frameicon11.jpg" alt="" width="40%" height="80%">
+                           
+                        </div>
+                        <div class="col">
+                            <input type="radio"  name="product" value="framing"><br>
+                            <label for="framing"><p style="color: #D8A800; font-size:13px;"> FRAMING</p></label>
+                           
+                        </div>
+                        <div class="col" style="text-align: right;">
+                           <img src="/images/frameicon2.jpg" alt="" width="40%" height="80%">
+                           
+                        </div>
+                        <div class="col">
+                           <input type="radio"  name="product" value="canvas"><br>
+                           <label for="canvas"><p style="color: #D8A800; font-size:13px;">CANVAS STRETCHING</p></label>
+                         
+                        </div>
+                        <div class="col" style="text-align: right;">
+                           <img src="/images/frameicon3.jpg" alt="" width="50%" height="60%">
+                           
+                        </div>
+                        <div class="col">
+                           <input type="radio"  name="product" value="acrilic"><br>
+                           <label for="acrilic"> <p style="color: #D8A800; font-size:13px;">ACRYLIC <br> SANDWICH <br> MOUNT</p></label>
+                        </div>
+                        <div class="col" style="text-align: right;">
+                           <img src="/images/frameicon4.jpg" alt="" width="40%" height="80%">
+                           
+                        </div>
+                        <div class="col">
+                          <input type="radio"  name="product" value="block"><br>
+                          <label for="block"><p style="color: #D8A800; font-size:13px;">BLOCK MOUNT</p></label>
+                        </div>
+                        <div class="col" style="text-align: right;">
+                           <img src="/images/frameicon5.jpg" alt="" width="40%" height="80%">
+                           
+                        </div>
+                        <div class="col">
+                            <input type="radio" name="product" value="permanant"><br>
+                            <label for="permanant"><p style="color: #D8A800; font-size:13px;">ACRYLIC <br> PERMANENT <br> MOUNT</p></label>
+                        </div>
+                        
+                    </div>
+                    
+                </div>
+                <br>
+                <div style="width: 80%; height:5px; background:#A1A361;"></div>
                 </center> 
+                <div class="container" style="text-align: right; margin-top:30px;">
+                       <a href="/print2"><button style="background-color: white; color:black; border-style:none; font-size:25px;">Next</button></a>
+                </div>
+                </form>
             </div>
     </div>
     
